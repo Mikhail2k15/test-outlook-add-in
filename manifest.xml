@@ -1,7 +1,9 @@
-<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides" xmlns:mailappor1.1="http://schemas.microsoft.com/office/mailappversionoverrides/1.1" xsi:type="MailApp">
-<Id>67528170-c45a-405c-9584-f5bc450c4d33</Id>
-<Version>1.4.1.0</Version>
-<ProviderName>Trustifi Corp.</ProviderName>
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides" 
+  xmlns:mailappor1.1="http://schemas.microsoft.com/office/mailappversionoverrides/1.1" xsi:type="MailApp">
+<Id>67528170-c45a-405c-9584-f5bc450c4d44</Id>
+<Version>1.1.1.1</Version>
+<ProviderName>En-ti.</ProviderName>
 <DefaultLocale>en-US</DefaultLocale>
 <DisplayName DefaultValue="Trustifi"/>
 <Description DefaultValue="Our mission is to transform today's email communications."/>
