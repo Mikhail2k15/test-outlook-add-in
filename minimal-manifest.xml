@@ -24,7 +24,7 @@
     <Form xsi:type="ItemRead">
       <DesktopSettings>
         <SourceLocation DefaultValue="https://enti-lk-dev.website.yandexcloud.net/main.html"/>
-        <RequestedHeight>30</RequestedHeight>
+        <RequestedHeight>50</RequestedHeight>
       </DesktopSettings>
     </Form>
   </FormSettings>
