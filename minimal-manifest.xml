@@ -7,7 +7,7 @@
   <ProviderName>En-Ti</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Оцените сообщение"/>
-  <Description DefaultValue="Context Owa App"/>
+  <Description DefaultValue="Оцените сообщение"/>
   <IconUrl DefaultValue="https://moveit.addins.progress.com/transfer/outlook/assets/icon-64.png"/>
   <AppDomains>
     <AppDomain>https://enti-lk-dev.website.yandexcloud.net/</AppDomain>
