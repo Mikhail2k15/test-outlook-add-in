@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://localhost:8443/index.html"/>
+        <SourceLocation DefaultValue="https://raw.githubusercontent.com/Mikhail2k15/test-outlook-add-in/refs/heads/main/index.html"/>
         <RequestedHeight>100</RequestedHeight>
       </DesktopSettings>
     </Form>
