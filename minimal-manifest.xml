@@ -10,7 +10,7 @@
   <Description DefaultValue="Context Owa App"/>
   <IconUrl DefaultValue="https://moveit.addins.progress.com/transfer/outlook/assets/icon-64.png"/>
   <AppDomains>
-    <AppDomain>https://raw.githubusercontent.com</AppDomain>
+    <AppDomain>https://enti-lk-dev.website.yandexcloud.net/</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://raw.githubusercontent.com/Mikhail2k15/test-outlook-add-in/refs/heads/main/index.html"/>
+        <SourceLocation DefaultValue="https://enti-lk-dev.website.yandexcloud.net"/>
         <RequestedHeight>100</RequestedHeight>
       </DesktopSettings>
     </Form>
