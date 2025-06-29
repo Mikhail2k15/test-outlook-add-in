@@ -6,7 +6,7 @@
   <Version>1.0.0.1</Version>
   <ProviderName>En-Ti</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="Было ли это сообщение полезным? "/>
+  <DisplayName DefaultValue="Оцените сообщение"/>
   <Description DefaultValue="Context Owa App"/>
   <IconUrl DefaultValue="https://moveit.addins.progress.com/transfer/outlook/assets/icon-64.png"/>
   <AppDomains>
