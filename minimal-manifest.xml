@@ -6,7 +6,7 @@
   <Version>1.0.0.0</Version>
   <ProviderName>Agile9.net</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="Было ли это сообщение полезным? ✅ Да      ❌ Нет"/>
+  <DisplayName DefaultValue="Было ли это сообщение полезным? "/>
   <Description DefaultValue="Context Owa App"/>
   <IconUrl DefaultValue="https://localhost:8443/content/OfficeDev.png"/>
   <AppDomains>
@@ -24,7 +24,7 @@
     <Form xsi:type="ItemRead">
       <DesktopSettings>
         <SourceLocation DefaultValue="https://localhost:8443/index.html"/>
-        <RequestedHeight>300</RequestedHeight>
+        <RequestedHeight>100</RequestedHeight>
       </DesktopSettings>
     </Form>
   </FormSettings>
